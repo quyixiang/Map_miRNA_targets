@@ -24,9 +24,9 @@ It is a dynamic planning algorithms for sequence alignment.
  We made every two bases in the amino acid as a pair and implemented the new Scoring Matrix of 16*16
 
 ##### Output
-
-![image-20200121101151800](./pictures/image-20200121101151800.png)
-
+<div align=center>
+![image-20200121101151800](img width="550" src="./pictures/image-20200121101151800.png")
+</div>
 
 
 #### Get Sequence
