@@ -14,7 +14,7 @@ It is a dynamic planning algorithms for sequence alignment.
 
 <div align=center><img width="300" src="./pictures/image-20200121101831475.png" alt="image-20200121101901465" />
 
-<img width="400" src="./pictures/image-20200121101901465.png" alt="image-20200121101901465" style="zoom:40%;" />
+<img width="400" src="./pictures/image-20200121101901465.png" alt="image-20200121101901466" style="zoom:40%;" />
 </div>
 
 
@@ -34,4 +34,4 @@ It is a dynamic planning algorithms for sequence alignment.
 
 ##### Output
 
-<img src="./pictures/image-20200121102444779.png" alt="image-20200121102444779" style="zoom:50%;" />
+<img width="300" src="./pictures/image-20200121102444779.png" alt="image-20200121102444779" style="zoom:50%;" />
