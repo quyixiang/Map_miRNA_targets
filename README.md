@@ -14,7 +14,8 @@ It is a dynamic planning algorithms for sequence alignment.
 
 <div align=center><img width="400" src="./pictures/image-20200121101831475.png" alt="image-20200121101901465" />
 
-<div align=center><img width="400" src="./pictures/image-20200121101901465.png" alt="image-20200121101901465" style="zoom:40%;" />
+<img width="400" src="./pictures/image-20200121101901465.png" alt="image-20200121101901465" style="zoom:40%;" />
+</div>
 
 
 - Modified Smith-Waterman Algorithm
