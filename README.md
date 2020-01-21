@@ -12,9 +12,10 @@ This project has two main parts.
 
 It is a dynamic planning algorithms for sequence alignment.
 
-![image-20200121101831475](./pictures/image-20200121101831475.png)
+<div align=center><img width="800" src="./pictures/image-20200121101831475.png" alt="image-20200121101901465" style="zoom:40%;" />
 
-<div align=center><img width="100" height="100" src="./pictures/image-20200121101901465.png" alt="image-20200121101901465" style="zoom:40%;" />
+<div align=center><img width="800" src="./pictures/image-20200121101901465.png" alt="image-20200121101901465" style="zoom:40%;" />
+
 
 - Modified Smith-Waterman Algorithm
 
