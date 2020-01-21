@@ -34,5 +34,5 @@ It is a dynamic planning algorithms for sequence alignment.
 
 ##### Output
 <div align=center>
-<img width="300" src="./pictures/image-20200121102444779.png" alt="image-20200121102444779" style="zoom:50%;" />
+<img width="500" src="./pictures/image-20200121102444779.png" alt="image-20200121102444779" style="zoom:50%;" />
 </div>
