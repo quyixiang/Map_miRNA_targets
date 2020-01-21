@@ -12,9 +12,10 @@ This project has two main parts.
 
 It is a dynamic planning algorithms for sequence alignment.
 
-<div align=center><img width="150" src="./pictures/image-20200121101831475.png" alt="image-20200121101901465" />
+<div align=center>
+<img width="190" src="./pictures/image-20200121101831475.png" alt="image-20200121101901465" />
 
-<img width="150" src="./pictures/image-20200121101901466.png" alt="image-20200121101901466" style="zoom:40%;" />
+<img width="190" src="./pictures/image-20200121101901466.png" alt="image-20200121101901466" style="zoom:40%;" />
 </div>
 
 
