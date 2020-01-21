@@ -25,7 +25,7 @@ It is a dynamic planning algorithms for sequence alignment.
 
 ##### Output
 <div align=center>
-![image-20200121101151800](img width="550" src="./pictures/image-20200121101151800.png")
+<img width="550" src="./pictures/image-20200121101151800.png">
 </div>
 
 
